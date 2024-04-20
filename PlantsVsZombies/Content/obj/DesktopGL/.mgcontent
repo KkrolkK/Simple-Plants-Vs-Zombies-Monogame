@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/btnBack.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/credits.jpg</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/FontMenu.spritefont</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/FontMenuHighlight.spritefont</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/help.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/Lawn Background.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/Level Up.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/Main menu.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/Menu Background.jpg</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/plant_green.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/plant_shield.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/plant_sun.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/projectile.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/soundTrack.mp3</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/sun.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/You lose.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/zombie1.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/zombie2.png</File>
+    <File>C:/Users/carol/Desktop/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/zombie3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

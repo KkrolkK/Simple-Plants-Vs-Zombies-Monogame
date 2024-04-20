@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="PlantsVsZombies.exe" version="1.0.0.1" publicKeyToken="58b09f836af132e9" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Zombie-Icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Launcher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="4" minorVersion="10" buildNumber="0" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="17304">
+      <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>n4GU/KJ22qp4GndJWZb4Ef+Vn+kI8Sk3MIOv5XmiQzg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="MonoGame.Framework.dll" size="1858048">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>uaBjIFIGgustK1rRbn8fHfH7j+N9hUbcMiMHf3oYV8c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PlantsVsZombies.deps.json" size="3015">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0BJsdgzh3y44n8aRip4CowB2urVmcnTX3x6wwSt9CG8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PlantsVsZombies.dll" size="212376">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>To3vrz8HrBMBzwIRS0gIotAr+UnRPUmSJUgTarfQi74=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PlantsVsZombies.exe" size="356248">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p2THW6SXzkCfUs+0UygUPg/KsH6w81TZkj6hJ0boOgA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="PlantsVsZombies.runtimeconfig.json" size="332">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xOvHwJZvW/ngyPWDW54QexO9Ak37JZSG0k6zl0U6qk8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\linux-x64\native\libopenal.so.1" size="634399">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Yk5JwEqfQIW9sb6kmsI5I9TlsV1YeKnIaOIYGh/0GNM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\linux-x64\native\libSDL2-2.0.so.0" size="2240912">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+vsJTuVh7tRtsxVDfcRDKlU/mwWPoTwHpyQpF7fN/Hk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\osx\native\libopenal.1.dylib" size="2098024">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cV6bkISgSr85suiPD1YFX2GNHMQdbwullngyyz0qmLI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\osx\native\libSDL2.dylib" size="2953024">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0yNISwer/c9ID+yakDYbDjEhiUy2JpKpBDbL+K7jgms=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x64\native\SDL2.dll" size="1304064">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0nTUl1MHA5VwxOEPAebVPlDoC8Wi1G241+9VDKYj5e0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x64\native\soft_oal.dll" size="961028">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>QQkE/ApPqIuOPwH8Pm+K5E49pI7zB9EQ/+Jt2PUPnpA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x86\native\SDL2.dll" size="1098240">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WSyvFOdRYgJTYqSYRQe+AKPTHqPZiD/6AEwTaJV9CE0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="runtimes\win-x86\native\soft_oal.dll" size="856408">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nt8z3HjsGH+CEV/Igl7nLKVkMugqGtavrd/yiUjddaI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Zombie-Icon.ico" size="203982">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xCSOdfSQrRWHDJsGLk6WR9UDsy9clPqSpYs9eLx4ma0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />
+      <!-- Windows 7 -->
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />
+      <!-- Windows 8 -->
+      <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />
+      <!-- Windows 8.1 -->
+      <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />
+      <!-- Windows 10 -->
+      <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />
+    </application>
+  </compatibility>
+  <application xmlns="urn:schemas-microsoft-com:asm.v3">
+    <windowsSettings>
+      <dpiAware xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">true/pm</dpiAware>
+      <dpiAwareness xmlns="http://schemas.microsoft.com/SMI/2016/WindowsSettings">permonitorv2,permonitor</dpiAwareness>
+    </windowsSettings>
+  </application>
+<publisherIdentity name="CN=MSI\carol" issuerKeyHash="710dc19146c10f9243d5c5c27652c6e86d63a1d1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gqlCUoLUEnT41JoNNcAZrl8lBOfDcv6X8MLqRu/9bGU=</DigestValue></Reference></SignedInfo><SignatureValue>jDA0jpy71Ly3Q5nz74PDNdKt2Ov+Iw8Il41H9/hOkHEpKLesxOhSXEGs/DIcggy/sBw4CWnwZDYu0sbVWHmvDsdFo9iM8jfKemnHQWRe73f6nvX1SsSvNLFfCyQp23FaF9SW1mMSy9S2cNKC/RwwwVartCgl6Jt8znbPNUs06uY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pNH/HwHkn+mtRp+BPECqo9e8H25Z5zY6R+ymV/FDPkBE9JTmOhXcIOyor8H1n5dzTWUYUrmxA0vAjtlffyp9cL1K6YjmBCxyZyDyRm+JClsH77bvyA5KMaATeAZ7ICQXLKSwGs87E7+yb/CXUNQstku4EPIZXXxiblxccdwHgTk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="656cfdef46eac2f097fe72c3e704255fae19c0350d9ad4f87412d4825242a982" Description="" Url=""><as:assemblyIdentity name="PlantsVsZombies.exe" version="1.0.0.1" publicKeyToken="58b09f836af132e9" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MSI\carol</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9QurV8qLHMT1iw1cFIi+FXtA8Tad3l4G3fdELdWeu90=</DigestValue></Reference></SignedInfo><SignatureValue>HhqwR8GzXzRe2SPq/7Kie//0cfxRBm4BgzlGbZVZkgIH5TMrg057blRluyHEaX1I6T5uH309EMhZp+Amp1mksscV8o58eIVHb6OY2jHAonalrcG3GXDIFHpCprMrvOUKJmJ0lFNl3YCW71oAmrWa0EdOP95SYUXBeBrInjrB44I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pNH/HwHkn+mtRp+BPECqo9e8H25Z5zY6R+ymV/FDPkBE9JTmOhXcIOyor8H1n5dzTWUYUrmxA0vAjtlffyp9cL1K6YjmBCxyZyDyRm+JClsH77bvyA5KMaATeAZ7ICQXLKSwGs87E7+yb/CXUNQstku4EPIZXXxiblxccdwHgTk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQEWycdXG4YrlJzVXWndhaLzANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIATQBTAEkAXABjAGEAcgBvAGwwHhcNMjMxMTMwMjE1MjU5WhcNMjQxMTMwMDM1MjU5WjAdMRswGQYDVQQDHhIATQBTAEkAXABjAGEAcgBvAGwwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKTR/x8B5J/prUafgTxAqqPXvB9uWec2OkfsplfxQz5ARPSU5joV3CDsqK/B9Z+Xc01lGFK5sQNLwI7ZX38qfXC9SumI5gQscmcg8kZviQpbB++278gOSjGgE3gGeyAkFyyksBrPOxO/sm/wl1DULLZLuBDyGV18Ym5cXHHcB4E5AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAicQ9pQiH+dQJzGlzwKGEj3E4hgA64dmitUS0ItiOVBzfvsSamxC6QuoIuStCLlBHnRvrnk8YwlkxPASVZZaBC64Yd+MXuoweqLM7OLh2Y/NNKpUgSmofWebdBqfi3MPKLzvUUgGMkJfNSq01SIfeNuArDS7L+76sAAViIvDx9A8=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

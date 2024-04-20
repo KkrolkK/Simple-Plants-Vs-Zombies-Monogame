@@ -1,0 +1,35 @@
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\PlantsVsZombies.exe
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/btnBack.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/credits.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/FontMenu.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/FontMenuHighlight.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/help.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/Lawn Background.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/level up.ogg
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/Level Up.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/Main menu.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/Menu Background.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/plant_green.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/plant_shield.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/plant_sun.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/projectile.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/soundTrack.ogg
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/soundTrack.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/sun.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/You lose.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/zombie1.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/zombie2.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\Content/zombie3.xnb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\PlantsVsZombies.dll
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\PlantsVsZombies.deps.json
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\PlantsVsZombies.runtimeconfig.json
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\PlantsVsZombies.pdb
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\MonoGame.Framework.dll
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\osx\native\libSDL2.dylib
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\osx\native\libopenal.1.dylib
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\win-x64\native\SDL2.dll
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\win-x64\native\soft_oal.dll
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\win-x86\native\SDL2.dll
+C:\Users\carol\Desktop\PlantsVsZombies\PlantsVsZombies\PlantsVsZombies\bin\Release\net6.0\app.publish\runtimes\win-x86\native\soft_oal.dll

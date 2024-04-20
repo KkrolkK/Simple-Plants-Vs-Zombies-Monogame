@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/carol/Downloads/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/soundTrack.mp3</SourceFile>
+  <SourceTime>2024-04-20T15:26:38.3419611-04:00</SourceTime>
+  <DestFile>C:/Users/carol/Downloads/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/bin/DesktopGL/Content/soundTrack.xnb</DestFile>
+  <DestTime>2024-04-20T15:36:03.9849478-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/carol/Downloads/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/PlantsVsZombies/Content/bin/DesktopGL/Content/soundTrack.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
